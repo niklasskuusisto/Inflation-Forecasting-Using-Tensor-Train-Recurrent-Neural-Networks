@@ -7,6 +7,8 @@ This repository contains the empirical work for my M.Sc. thesis in Economics at 
 
 In the repository all of the data is provided in the "Data" folder and any data pre-processing as well as the implementations of the models are provided in "Code" folder.
 
+For the list of versions used, please refer to versions.txt file.
+
 The code written for TT-RNN model referenced the works by
 
   * Xu, Y. L. (2019). Tensor-Train Recurrent Neural Networks in Financial Forecasting. Imperial College London, Department of Electrical and Electronic Engineering. 
