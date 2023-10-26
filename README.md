@@ -1,5 +1,24 @@
 # Inflation-Forecasting-Using-Tensor-Train-Recurrent-Neural-Networks
 
+This work is licensed under a Creative Commons
+“Attribution-NonCommercial-ShareAlike 4.0 International” license.
+
+\url{}
+
+This repository contains the empirical work for my M.Sc. thesis in Economics at Aalto University School of Business, submitted in 2023. In the work inflation forecasting using TT-RNNs is explored. 
+
+In the repository all of the data is provided in the "Data" folder and any data pre-processing as well as the implementations of the models are provided in "Code" folder.
+
+What the project does
+Why the project is useful
+How users can get started with the project
+Where users can get help with your project
+Who maintains and contributes to the projec
+
+
+
+
+
 The code written for TT-RNN model referenced the works by
 
   Xu, Y. L. (2019). Tensor-Train Recurrent Neural Networks in Financial Forecasting.
