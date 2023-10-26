@@ -1,4 +1,4 @@
-# Inflation-Forecasting-Using-Tensor-Train-Recurrent-Neural-Networks
+# Inflation Forecasting Using Tensor-Train Recurrent Neural Networks
 
 This work is licensed under a Creative Commons “Attribution-NonCommercial-ShareAlike 4.0 International” license.
 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
